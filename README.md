@@ -7,3 +7,4 @@ This is my C++ code with explanatory comments along with problems.
 - Lecture_3 - Patterns
 - Lecture_4 - Functions
 - Lecture_5 - Binary Number System
+- Switch Case
