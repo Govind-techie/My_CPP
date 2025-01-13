@@ -8,3 +8,4 @@ This is my C++ code with explanatory comments along with problems.
 - Lecture_4 - Functions
 - Lecture_5 - Binary Number System
 - Switch Case
+- Lecture_6 - Bitwise Operators, Operator Precedence, Scope of varaible, Datatype Modifiers
